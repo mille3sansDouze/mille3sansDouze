@@ -1,16 +1,25 @@
 ## Hi there 👋
+wesh wesh canne a pêche
+---
 
-<!--
-**mille3sansDouze/mille3sansDouze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Stack
 
-Here are some ideas to get you started:
+![JS](https://img.shields.io/badge/JS-black?style=for-the-badge&logo=javascript)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mille3sansDouze&show_icons=true&theme=tokyonight)
+
+---
+
+## 👀 
+
+![Counter](https://komarev.com/ghpvc/?username=mille3sansDouze&color=blueviolet&style=for-the-badge)
+
+---
+
+```bash
+> loading...
+[██████████] 100%
