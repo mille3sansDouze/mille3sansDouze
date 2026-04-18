@@ -2,7 +2,7 @@
 wesh wesh canne a pêche
 ---
 
-## 🛠️ Stack
+## 🛠️ Languages 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
@@ -17,7 +17,7 @@ wesh wesh canne a pêche
 
 ---
 
-## 👀 bruh (je suis pas une resta
+## 👀 bruh (je suis pas une resta :/ )
 
 ![Counter](https://komarev.com/ghpvc/?username=mille3sansDouze&color=blueviolet&style=for-the-badge)
 
